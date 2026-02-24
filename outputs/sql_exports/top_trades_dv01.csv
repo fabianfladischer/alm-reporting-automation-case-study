@@ -1,0 +1,11 @@
+trade_id,portfolio_name,pay_receive_fixed,dv01_usd
+TRD00009,ALM_Liquidity_Book,RECEIVE,129359.38
+TRD00010,BankingBook_IRRBB,RECEIVE,129359.38
+TRD00013,Treasury_Hedge_Book,RECEIVE,129353.47
+TRD00014,Treasury_Hedge_Book,PAY,-129353.47
+TRD00018,ALM_Liquidity_Book,PAY,-97023.96
+TRD00037,Treasury_Hedge_Book,RECEIVE,86239.58
+TRD00020,ALM_Liquidity_Book,PAY,-77615.63
+TRD00023,Treasury_Hedge_Book,PAY,-64682.64
+TRD00033,BankingBook_IRRBB,PAY,-64682.64
+TRD00028,BankingBook_IRRBB,PAY,-45280.21

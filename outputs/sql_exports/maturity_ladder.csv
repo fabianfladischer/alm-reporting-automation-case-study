@@ -1,0 +1,9 @@
+bucket,pay_receive_fixed,notional_usd_mm
+0-1Y,PAY,30.0
+0-1Y,RECEIVE,60.0
+2-5Y,PAY,85.0
+2-5Y,RECEIVE,25.0
+5-10Y,PAY,305.0
+5-10Y,RECEIVE,150.0
+10Y+,PAY,380.0
+10Y+,RECEIVE,405.0
